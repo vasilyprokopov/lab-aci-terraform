@@ -1,0 +1,9 @@
+variable "student_id" {}
+variable "tenant_name" {}
+variable "ap_name" {}
+variable "epg_name1" {}
+variable "epg_name2" {}
+variable "vrf_name" {}
+variable "bd_name" {}
+variable "l3out_name" {}
+variable "exepg_name" {}
